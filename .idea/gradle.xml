@@ -10,6 +10,11 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/code1" />
+            <option value="$PROJECT_DIR$/code2" />
+            <option value="$PROJECT_DIR$/code3" />
+            <option value="$PROJECT_DIR$/code4" />
+            <option value="$PROJECT_DIR$/code5" />
+            <option value="$PROJECT_DIR$/xListView" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
